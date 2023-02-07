@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap");
+
+.bg-text {
+   font-family: "JetBrains Mono", monospace;
+   /* background: yellowgreen; */
+   
+   
+
+}
+.bg-text h1{
+   position: relative;
+   top: 0;
+   
+   font-size: 1.8rem;
+   text-align: center;
+}
+.abt {
+   position: absolute;
+   left: 23%;
+}
+.abt p{
+   font-family: "JetBrains Mono", monospace;
+}
+
+
+
+
