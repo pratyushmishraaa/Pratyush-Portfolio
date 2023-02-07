@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Pratyush-Portfolio/static/css/main.20e49aaa.css",
+    "main.js": "/Pratyush-Portfolio/static/js/main.d347aa40.js",
+    "static/media/resume_pratyush_oned.pdf": "/Pratyush-Portfolio/static/media/resume_pratyush_oned.d8b914bfc0b891ef4063.pdf",
+    "index.html": "/Pratyush-Portfolio/index.html",
+    "main.20e49aaa.css.map": "/Pratyush-Portfolio/static/css/main.20e49aaa.css.map",
+    "main.d347aa40.js.map": "/Pratyush-Portfolio/static/js/main.d347aa40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20e49aaa.css",
+    "static/js/main.d347aa40.js"
+  ]
+}
